@@ -1,0 +1,1 @@
+This library is meant to be used in STM32 devices. Through the library, temperature measurement from DS18B20 sensor can be realized.
